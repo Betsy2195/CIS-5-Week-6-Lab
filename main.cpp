@@ -4,7 +4,6 @@
 // CIS 5 Week 06 · Even and odd
 
 using std::cout;
-using std::cin;
 using std::endl;
 //using std::string; (Maybe use?)
 
