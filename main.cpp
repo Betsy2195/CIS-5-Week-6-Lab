@@ -5,7 +5,6 @@
 
 using std::cout;
 using std::endl;
-//using std::string; (Maybe use?)
 
 int main() {
     //for loop will add even numbers from 0-100.
